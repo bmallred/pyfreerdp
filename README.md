@@ -1,0 +1,4 @@
+pyfreerdp
+=========
+
+Python FreeRDP Launcher
